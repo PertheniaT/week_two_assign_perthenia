@@ -72,6 +72,11 @@ h1 {
 	margin: 90px 0px 30px;
 }
 
+.blognav a{
+	font-size: 20px;
+	color: #fff;
+}
+
 .get_it_now {
 	background-color: #f9e42e;
 	border: none;
